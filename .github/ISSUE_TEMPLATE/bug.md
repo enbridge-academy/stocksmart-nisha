@@ -1,0 +1,18 @@
+---
+name: Bug report
+about: Something does not work as expected
+labels: bug
+---
+**Severity:** Critical / Major / Minor
+
+**Steps to reproduce**
+1.
+2.
+
+**Expected**
+
+**Actual**
+
+**Version:** <tag or branch>
+
+**Screenshot or log extract**
